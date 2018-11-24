@@ -10,5 +10,5 @@ function whisper(str){
 console.log(whisper('SWEET'));
 
 function logShout(str){
-  console.log(str.toUpperCase)
+  console.log(str.toUpperCase());
 }
