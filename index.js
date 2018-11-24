@@ -8,3 +8,7 @@ function whisper(str){
   return str.toLowerCase();
 }
 console.log(whisper('SWEET'));
+
+function logShout(str){
+  console.log(str.toUpperCase)
+}
