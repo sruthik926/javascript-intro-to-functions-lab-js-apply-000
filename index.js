@@ -4,7 +4,7 @@ return str.toUpperCase();
 }
 console.log(shout('Sruthi'));
 
-function sayHiToGrandma(newStr){
-  return newStr.toLowerCase();
+function sayHiToGrandma(whisper){
+  return whisper.toLowerCase();
 }
 console.log(sayHiToGrandma('SWEET'));
